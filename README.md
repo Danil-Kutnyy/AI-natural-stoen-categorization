@@ -10,4 +10,6 @@ It was trained in a simulated market environmet. Market environment was simulate
 Full database is availible in on google drive on this link: https://drive.google.com/drive/folders/1FElZjnM_j_7qkTA9NlByJSlI35cSUioQ?usp=sharing
 As this project is a part of my thesis, i also attach pdf file, which explain a lot about this project
 
-Database:  https://drive.google.com/drive/folders/1FElZjnM_j_7qkTA9NlByJSlI35cSUioQ?usp=sharing
+Full text is availible at the repository: github.com/Danil-Kutnyy/AI-trading-bot/blob/main/Thesis.pdf
+
+Database:  drive.google.com/drive/folders/1FElZjnM_j_7qkTA9NlByJSlI35cSUioQ?usp=sharing
