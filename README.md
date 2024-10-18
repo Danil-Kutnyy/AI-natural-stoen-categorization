@@ -2,7 +2,7 @@ AI-trading-bot
 
 This is my thesis project.
 
-Main idea: Create a tradign bot, to buy/sell stocks on the market
+Main : Create a tradign bot, to buy/sell stocks on the market
 
 Description: 
 This bot is based on a deep neural networks. It is trained with reinforcement learning approach using policy gradients
